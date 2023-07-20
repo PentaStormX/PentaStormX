@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PentaStormX&langs_count=8)](https://github.com/PentaStormX/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=PentaStormX)](https://solved.ac/PentaStormX)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jodongman)](https://solved.ac/jodongman)<br/>
 ***
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPentaStormX&count_bg=%23D52B2B&title_bg=%235ABA3C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
